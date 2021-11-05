@@ -7,7 +7,7 @@
 
 To customise the default MemberPress Templates you need to create a directory in your theme or child theme's base folder named "memberpress." Inside that folder, you can place any of the templates files (found in memberpress/app/views/…) to override them with your own. 
 
-This plugin is made for [Oxygen Builder](http://oxygenbuilder.com/) users where the theme is completely disabled. Simply add your customised MemberPress template files inside the /mepr_templates/ directory inside this plugin.
+This plugin is made for [Oxygen Builder](http://oxygenbuilder.com/) users where the theme is completely disabled. Simply add your customised MemberPress template files inside the /mepr_templates/ directory in this plugin.
 
 See [How to Override Template Files? in MemberPress](https://docs.memberpress.com/article/165-how-to-override-template-files).
  
