@@ -1,5 +1,6 @@
 # Oxygen MemberPress Template Support #
-**Contributors:** Taimur Aziz 
+
+**Contributor:** Taimur Aziz   
 **Tags:** memberpress, oxygen  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
