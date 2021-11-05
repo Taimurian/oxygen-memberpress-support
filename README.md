@@ -13,7 +13,7 @@ See [How to Override Template Files? in MemberPress](https://docs.memberpress.co
 
 ## Installation ##
 
-1. [Download the plugin here.](https://github.com/Taimurian/oxygen-memberpress-support/archive/master.zip)
+1. [Download the plugin here.](https://github.com/Taimurian/oxygen-memberpress-support/archive/main.zip)
 2. Go to Plugins > Add New in your WordPress admin. Click on `Upload Plugin` and browse for the zip file.
 3. Activate the plugin.
 
